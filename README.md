@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![image](https://github.com/vyk2rr/NextJS-Dashboard-ReactJS-BootstrapPractice/assets/189216/8237d7b3-9258-4ed3-97ee-2e2c8d939879)
+
 ## Getting Started
 
 First, run the development server:
